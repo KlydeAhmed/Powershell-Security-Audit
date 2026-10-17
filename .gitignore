@@ -1,0 +1,9 @@
+
+# Please Exclude locally generated security audit reports
+security_audit_report.txt
+
+# Exclude other generated audit reports
+*_audit_report.txt
+
+# Exclude PowerShell transcript files
+PowerShell_transcript*
